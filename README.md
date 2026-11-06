@@ -124,7 +124,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 **Shreya Vispute**
 
 * GitHub: https://github.com/ShreyaVispute021
-* LinkedIn: https://www.linkedin.com/in/shreya-vispute-6a9414321/
+* LinkedIn: https://www.linkedin.com/in/shreya-vispute-43b691447/
 
 ---
 
